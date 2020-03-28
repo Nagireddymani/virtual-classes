@@ -15,6 +15,6 @@ public class App
         
         Trainee trainee=(Trainee) context.getBean("trainee");
         trainee.display();
-        
+    
     }
 }
