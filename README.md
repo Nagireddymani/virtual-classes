@@ -1,6 +1,6 @@
 # capg-virtual-classes
 
-1.AngularApplication(GroupsAndContacts)(empty)(Given by Vamsy Sir)
+1.AngularApplication(GroupsAndContacts)(Exercise Given by Vamsy Sir)
 
 2.Trainee Exercise 26-03-2020
 
