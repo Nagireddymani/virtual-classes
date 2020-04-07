@@ -6,6 +6,5 @@
 
 3.HealthCareSystem Sprint1 Project With Complete Exception Handling(Sprint 1)
 
-4.
-Spring-boot-app Exercise 06/04/2020 (Accepting User details and displaying it in other with Age)
+4.Spring-boot-app Exercise 06/04/2020 (Accepting User details and displaying it in other with Age)
 
