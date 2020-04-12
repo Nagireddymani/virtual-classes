@@ -10,4 +10,6 @@
 
 5.Spring-boot-app Exercise 06/04/2020 (Accepting User details in one view/Page and displaying it in other view/Page with Age)
 
-6.Spring-boot-app Exercise 07/04/2020 (CRUD Operations using Rest/ResponseEntity object)
+6.Spring Labbook-1 12/04/2020 (Employee And SBU)
+
+7.Spring-boot-app Exercise 07/04/2020 (CRUD Operations using Rest/ResponseEntity object)
